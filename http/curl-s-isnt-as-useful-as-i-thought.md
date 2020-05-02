@@ -17,4 +17,4 @@ Warning: curl to output it to your terminal anyway, or consider "--output
 Warning: <FILE>" to save to a file.
 ```
 
-But `-s` hides both progress and errors. So now I use `curl=curl -S` to only hide progress and to _keep_ errors.
+But `-s` hides both progress and errors. So now I use `curl=curl -s -S` to only hide progress and to _keep_ errors.
