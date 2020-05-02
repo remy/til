@@ -5,5 +5,5 @@ My Today I Learned snippets. Stolen from [simonw/til](https://github.com/simonw/
 <!-- index starts -->
 ## http
 
-* [curl -s isn't as useful as I thought](https://github.com/simonw/til/blob/master/http/curl-s-isnt-as-useful-as-i-thought.md) - 2020-05-02
+* [curl -s isn't as useful as I thought](https://github.com/remy/til/blob/master/http/curl-s-isnt-as-useful-as-i-thought.md) - 2020-05-02
 <!-- index ends -->
