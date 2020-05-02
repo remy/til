@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TIL search: {{ q }}</title>
+<style>
+body {
+    box-sizing: border-box;
+    font-family: helvetica;
+    padding: 1em;
+    max-width: 800px;
+    line-height: 1.5em;
+}
+input[type=search] {
+    padding: .25em;
+    font-size: 0.9rem;
+    width: 60%;
+}
+
+input[type=submit] {
+    box-sizing: border-box;
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    font-weight: 400;
+    cursor: pointer;
+    text-align: center;
+    vertical-align: middle;
+    border-width: 1px;
+    border-style: solid;
+    padding: .5em 0.8em;
+    font-size: 0.9rem;
+    line-height: 1;
+    border-radius: .25rem;
+}
+.topic {
+    background-color: #ccc;
+    padding: 3px;
+    border: 1px solid #777;
+    font-size: 0.65em;
+    position: relative;
+    top: -1px;
+}
+</style>
+</head>
+<body>
+<nav><a href="/">TIL index</a></nav>
+<h1>TIL search: {{ q }}</h1>
+
+<form action="/til/search">
+    <p>
+        <input type="search" name="q" value="{{ q }}">
+        <input type="submit" value="Search">
+    </p>
+</form>
+
+{% for row in rows %}
+    <p><span class="topic">{{ row.topic }}</span> <a href="{{ row.url }}">{{ row.title }}</a> - {{ row.created[:10] }}</p>
+{% endfor %}
+
+</body>
+</html>
