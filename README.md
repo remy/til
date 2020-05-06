@@ -10,4 +10,8 @@ My Today I Learned snippets. Stolen from [simonw/til](https://github.com/simonw/
 ## cli
 
 * [Escaping apostrophies in curl](https://github.com/remy/til/blob/master/cli/escaping-apostrophies-in-curl.md) - 2020-05-03
+
+## css
+
+* [Mobile device selector](https://github.com/remy/til/blob/master/css/mobile-device-selector.md) - 2020-05-06
 <!-- index ends -->
