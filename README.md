@@ -14,4 +14,8 @@ My Today I Learned snippets. Stolen from [simonw/til](https://github.com/simonw/
 ## css
 
 * [Mobile device selector](https://github.com/remy/til/blob/master/css/mobile-device-selector.md) - 2020-05-06
+
+## javascript
+
+* [New bytes from TextEncoder](https://github.com/remy/til/blob/master/javascript/new-bytes-from-textencoder.md) - 2020-05-09
 <!-- index ends -->
