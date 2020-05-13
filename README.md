@@ -18,4 +18,5 @@ My Today I Learned snippets. Stolen from [simonw/til](https://github.com/simonw/
 ## javascript
 
 * [New bytes from TextEncoder](https://github.com/remy/til/blob/master/javascript/new-bytes-from-textencoder.md) - 2020-05-09
+* [Testing for NaN](https://github.com/remy/til/blob/master/javascript/testing-for-nan.md) - 2020-05-13
 <!-- index ends -->
