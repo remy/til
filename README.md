@@ -14,6 +14,7 @@ My Today I Learned snippets. Stolen from [simonw/til](https://github.com/simonw/
 ## css
 
 * [Mobile device selector](https://github.com/remy/til/blob/master/css/mobile-device-selector.md) - 2020-05-06
+* [CSS calc's divide is unitless only](https://github.com/remy/til/blob/master/css/css-calc-divide.md) - 2020-05-15
 
 ## javascript
 
