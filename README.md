@@ -20,4 +20,8 @@ My Today I Learned snippets. Stolen from [simonw/til](https://github.com/simonw/
 
 * [New bytes from TextEncoder](https://github.com/remy/til/blob/master/javascript/new-bytes-from-textencoder.md) - 2020-05-09
 * [Testing for NaN](https://github.com/remy/til/blob/master/javascript/testing-for-nan.md) - 2020-05-13
+
+## node
+
+* [Spawn sh on MacOS … doesn't](https://github.com/remy/til/blob/master/node/spawn-sh-on-mac.md) - 2020-05-16
 <!-- index ends -->
