@@ -24,4 +24,8 @@ My Today I Learned snippets. Stolen from [simonw/til](https://github.com/simonw/
 ## node
 
 * [Spawn sh on MacOS … doesn't](https://github.com/remy/til/blob/master/node/spawn-sh-on-mac.md) - 2020-05-16
+
+## spectrum
+
+* [Memory debugging banks](https://github.com/remy/til/blob/master/spectrum/memory-debugging-banks.md) - 2020-05-23
 <!-- index ends -->
