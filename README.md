@@ -29,4 +29,5 @@ My Today I Learned snippets. Stolen from [simonw/til](https://github.com/simonw/
 
 * [Memory debugging banks](https://github.com/remy/til/blob/master/spectrum/memory-debugging-banks.md) - 2020-05-23
 * [Screen clean up at stop](https://github.com/remy/til/blob/master/spectrum/screen-clean-up.md) - 2020-05-23
+* [FOR … TO](https://github.com/remy/til/blob/master/spectrum/for-to.md) - 2020-05-24
 <!-- index ends -->
