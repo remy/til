@@ -31,4 +31,5 @@ My Today I Learned snippets. Stolen from [simonw/til](https://github.com/simonw/
 * [Screen clean up at stop](https://github.com/remy/til/blob/master/spectrum/screen-clean-up.md) - 2020-05-23
 * [FOR … TO](https://github.com/remy/til/blob/master/spectrum/for-to.md) - 2020-05-24
 * [Doesn't cost to _try_](https://github.com/remy/til/blob/master/spectrum/doesnt-cost-to-try.md) - 2020-05-24
+* [FOR and REPEAT UNTIL](https://github.com/remy/til/blob/master/spectrum/for-and-repeat-until.md) - 2020-05-25
 <!-- index ends -->
